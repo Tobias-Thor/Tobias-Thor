@@ -8,6 +8,16 @@
 - ⚡ Fun fact: ... I am autistic. I am also single and looking for a woman to date.
 - 🏠 Where I Live ... Gävle, Sweden.
 - 👨‍💻 My background ... I am a trained IT-technician who studied at Läroviken/SDCA, previous experience as a Cleaner for about 20 years of which some of the years was also in the school food system in Gävle.
+- 📚 In the future (the next 20+ years or so...) I am interested in (to various degrees) a very broad range of things, such as...
+  ...Python (and Mojo), Ruby (and Crystal), Hack, Go, Java, Kotlin, Clojure, Haskell, Julia, Zig, Rust, Carbon.
+  ...GNU/Linux, xBSD, *nix, web servers; Apache, nginx, Microsoft Server/IIS.
+  ...bash, zsh, Vim, emacs.
+  ...GIS.
+  ...(some light curiousity about IBM Mainframes with z/OS, OpenVMS, HPC, Clusters, HPC, Data Science, Bio-Technology, Life Science, Quantum Computing, Machine Learning and AI)
+  ..."Creative Stuff" (photo editing, layout, graphics, music editing, video editing)
+  ...M365 and business apps.
+  ...New technology that pushes things forward.
+  ...Energy efficiency and "performance per watt" and "bang-for-the-buck"
 
 <!---
 Tobias-Thor/Tobias-Thor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
