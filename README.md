@@ -11,7 +11,7 @@
 
 ---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---
 
-- 📚 In the future (the next 20+ years or so...) I am interested in (to various degrees) a very broad range of things, such as Python (and Mojo), Ruby (and Crystal), Hack, Go, Java, Kotlin, Clojure, Haskell, Julia, Zig, Rust, Carbon. /// GNU/Linux, xBSD, *nix, web servers; Apache, nginx, Microsoft Server/IIS. /// bash, zsh, Vim, emacs. /// GIS. /// (some light curiousity about IBM Mainframes with z/OS, OpenVMS, HPC, Clusters, HPC, Data Science, Bio-Technology, Life Science, Quantum Computing, Machine Learning and AI) /// "Creative Stuff" (photo editing, layout, graphics, music editing, video editing) /// M365 and business apps. /// New technology that pushes things forward. ///
+- 📚 In the future (the next 20+ years or so...) I am interested in (to various degrees) a very broad range of things, such as Python (and Mojo), Ruby (and Crystal), Hack, Go, Java, Kotlin, Clojure, Haskell, Julia, Zig, Rust, Carbon. / GNU/Linux, xBSD, *nix, web servers; Apache, nginx, Microsoft Server/IIS. / bash, zsh, Vim, emacs. / GIS. / (some light curiousity about IBM Mainframes with z/OS, OpenVMS, HPC, Clusters, Data Science, Bio-Technology, Life Science, Quantum Computing, Machine Learning and AI) / "Creative Stuff" (photo editing, layout, graphics, music editing, video editing) / M365 and business apps. / New technology that pushes things forward. /
 Energy efficiency and "performance per watt" and "bang-for-the-buck"
 
 <!---
