@@ -6,8 +6,8 @@
 - 📫 How to reach me ... tobiasthor@protonmail.com
 - 😄 Pronouns: ... Han/Honom (He/Him)
 - ⚡ Fun fact: ... I am autistic. I am also single and looking for a woman to date.
-- 🏠 Where I Live ... Gävle, Sweden.
-- 👨‍💻 My background ... I am a trained IT-technician who studied at Läroviken/SDCA, previous experience as a Cleaner for about 20 years of which some of the years was also in the school food system in Gävle.
+- 🏠 Where I Live ... Sweden.
+- 👨‍💻 My background ... I am a trained IT-technician who studied at Läroviken/SDCA, previous experience as a Cleaner for about 20 years of which some of the years was also in the school food system.
 
 ---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---xxx---
 
