@@ -1,0 +1,74 @@
+/* setting background-color */
+body {
+  background-color: pink;
+}
+
+/* centering text */
+h2 {
+    text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+/* centering text, setting size and color */
+
+#p1 {
+    text-align: center;
+    font-size: 1.5em;
+    color: #333;
+}
+
+/* settings for the list elements */
+
+ol {
+
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+
+}
+    
+ol li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #e6e6fa;
+    border-radius: 5px;
+    font-size: 1.2em;
+}
+   
+/* centering text, setting size and color */
+#p2 {
+    text-align: center;
+    font-size: 1.5em;
+    color: #333;
+}
+    
+ul {
+    text-align: center;
+    list-style-type: none;
+        padding: 0;
+}
+
+/* settings for the list elements */
+ul 
+    li {
+        margin: 10px 0;
+        padding: 10px;
+        background-color: #e6e6fa;
+        border-radius: 5px;
+        font-size: 1.2em;
+}
+
+/* centering text, setting size and color */
+#p3 {
+        text-align: center;
+        font-size: 1.5em;
+        color: #333;
+}
+
+/* centering an image */
+.center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 333px;
+}
